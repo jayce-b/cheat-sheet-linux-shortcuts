@@ -5,3 +5,13 @@ h1
 	font-size: 4em;
 	text-align: center;
 }
+
+table
+{
+	border-collapse: collapse;
+}
+
+table, th, td
+{
+	border: solid 1px black;
+}
