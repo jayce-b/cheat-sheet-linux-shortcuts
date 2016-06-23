@@ -1,3 +1,11 @@
+*
+{
+	background-color: #4C4949;
+}
+/*si je mets un background-color sur tous le doc j'ai un 
+conflit pour mettre des background-color dans mes tableaux
+!!!!!!!!!!!!!!A REVOIR DEMAIN!!!!!!!!!!!!!!!!!*/
+
 h1
 {
 	font-family: courier;
@@ -18,11 +26,18 @@ table, th, td
 {
 	border: solid 1px black;
 	font-family: arial;
+	padding:0.5%;
+}
+
+th, td
+{
+	background-color: #FFFFFF;
 }
 
 thead
 {
 	text-align: left;
+	
 }
 
 caption
@@ -33,5 +48,6 @@ caption
 	font-size: 1.5em;
 	text-align: left;
 	margin-top: 5%;
+	color: #F41C54;
 }
 
