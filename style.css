@@ -9,9 +9,13 @@ h1
 table
 {
 	border-collapse: collapse;
+	width: 70%;
+	margin:auto;
+
 }
 
 table, th, td
 {
 	border: solid 1px black;
 }
+
