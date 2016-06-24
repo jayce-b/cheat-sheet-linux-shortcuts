@@ -46,15 +46,25 @@ th
 
 caption
 {
-	margin: 2%;
 	font-family: courier;
 	font-weight: bold;
 	font-size: 1.5em;
 	text-align: left;
-	margin-top: 5%;
+	margin-bottom: 5%;
 	color: #F41C54;
 	text-transform: uppercase;
 	border: 2px solid #F41C54;
-	
+	width:100%;
+	padding: 0.5%;
+
 }
 
+.cap2
+{
+	margin-top: 15%;
+}
+
+.tab2
+{
+	margin-bottom: 15%;
+}
