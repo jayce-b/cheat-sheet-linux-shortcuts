@@ -19,6 +19,7 @@ table
 	border-collapse: collapse;
 	width: 70%;
 	margin:auto;
+	font-size: 1em;
 
 }
 
@@ -61,10 +62,20 @@ caption
 
 .cap2
 {
-	margin-top: 15%;
+	margin-top: 10%;
 }
 
 .tab2
 {
-	margin-bottom: 15%;
+	margin-bottom: 2%;
+}
+
+footer
+{
+	text-align: right;
+	color: #FCFF60;
+	width: 85%;
+	font-weight: bold;
+	font-family: courier;
+	font-size: 0.9em;
 }
