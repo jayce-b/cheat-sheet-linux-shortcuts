@@ -79,3 +79,49 @@ footer
 	font-family: courier;
 	font-size: 0.9em;
 }
+
+/*==============================================*/
+/*==============================================*/
+/*=============RESPONSIVE TEL TAB===============*/
+/*==============================================*/
+/*==============================================*/
+
+@media screen and (max-width: 980px)
+{
+
+
+h1
+{
+	font-size: 2em;
+	text-align: center;
+	text-transform: uppercase;
+	color: #fcff60;
+}
+
+span
+{
+	font-size: 4em;
+}
+
+table
+{
+	width: 95%;
+	margin:auto;
+	font-size: 1em;
+
+}
+
+
+th
+{
+	text-align: left;
+	font-family: courier;
+	color:#A8BF12;
+	font-weight: bold;
+	font-size:1em;
+	
+}
+
+
+
+}
